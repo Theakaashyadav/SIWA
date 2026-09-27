@@ -19,6 +19,13 @@ npm run lint
 npm run build
 ```
 
+To preview the generated static website:
+
+```bash
+npm run build
+npm start
+```
+
 ## Routes
 
 - `/[locale]` — home
@@ -57,4 +64,4 @@ Unverified government information, downloads, source links, profiles, social lin
 
 ## Deployment
 
-Build with `npm run build` and run with `npm start`, or deploy to any platform that supports Next.js 16. Set `NEXT_PUBLIC_SITE_URL` in the deployment environment before building.
+Run `npm run build` to generate the complete static website in `out/`. Upload the contents of `out/` to any static hosting service, or preview the exported files locally with `npm start`. Set `NEXT_PUBLIC_SITE_URL` in the build environment before building.

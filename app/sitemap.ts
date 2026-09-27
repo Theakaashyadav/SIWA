@@ -3,6 +3,8 @@ import {resolvedSiteUrl} from '@/config/site';
 import {events} from '@/data/events';
 import {industryUpdates} from '@/data/updates';
 
+export const dynamic = 'force-static';
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const paths = [
     '',
