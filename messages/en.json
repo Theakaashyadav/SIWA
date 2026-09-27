@@ -1,0 +1,748 @@
+{
+  "metadata": {
+    "home": {
+      "title": "SIWA Legal Support | Legal Information for Industry",
+      "description": "Access general legal information, submit an initial assistance request and connect with SIWA's Legal Professionals Network."
+    },
+    "about": {
+      "title": "About SIWA Legal Support",
+      "description": "Learn how SIWA helps industries access legal information, submit assistance requests and connect with legal professionals."
+    },
+    "members": {
+      "title": "SIWA Legal Professionals Network",
+      "description": "This preview shows sample legal-professional profiles. Production profiles will be published only after identity, credentials and consent are verified."
+    },
+    "gallery": {
+      "title": "Legal Awareness & Outreach Gallery",
+      "description": "View approved photographs from SIWA legal-awareness sessions, workshops and professional-network activities."
+    },
+    "contact": {
+      "title": "Request Legal Assistance",
+      "description": "Share an initial summary of an industry-related legal issue with SIWA. Submission does not confirm advice or representation."
+    },
+    "schemes": {
+      "title": "Government Schemes for Industry",
+      "description": "Read source-linked information about government schemes and programmes relevant to industries and MSMEs."
+    },
+    "updates": {
+      "title": "Legal Information, Government Schemes & Updates",
+      "description": "Explore general legal information, regulatory updates, official notifications and government schemes relevant to industry."
+    },
+    "events": {
+      "title": "Legal Awareness Sessions & Activities",
+      "description": "Explore SIWA legal-awareness sessions, compliance workshops and professional-network activities."
+    },
+    "resources": {
+      "title": "Legal Information & Resource Library",
+      "description": "Access approved laws, rules, notifications, checklists, case notes and other legal-information resources."
+    }
+  },
+  "topBar": {
+    "supporting": "Legal Information • Assistance Requests • Professional Connections",
+    "email": "Email",
+    "phone": "Contact number",
+    "language": "Select language"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About the Service",
+    "members": "Legal Professionals",
+    "schemes": "Legal Info & Updates",
+    "updates": "Legal Info & Updates",
+    "gallery": "Activities",
+    "contact": "Contact",
+    "becomeMember": "Request Assistance",
+    "openMenu": "Open navigation menu",
+    "closeMenu": "Close navigation menu"
+  },
+  "common": {
+    "learnMore": "Learn more",
+    "readMore": "Read more",
+    "viewDetails": "View details",
+    "viewAll": "View all",
+    "download": "Download",
+    "unavailable": "Not yet available",
+    "placeholderNotice": "Sample content — replace it with verified, SIWA-approved legal information before publication.",
+    "viewEvent": "View event",
+    "contactUs": "Request assistance",
+    "joinSiwa": "Request assistance",
+    "previous": "Previous",
+    "next": "Next",
+    "close": "Close",
+    "all": "All",
+    "optional": "Optional",
+    "required": "Required",
+    "loading": "Loading…",
+    "noResults": "No results found",
+    "sample": "Sample"
+  },
+  "home": {
+    "hero": {
+      "badge": "SIWA Industry Legal Support",
+      "title": "Legal Information, Professional Connections and Support for Industry",
+      "description": "If your enterprise needs support with labour, pollution control, licensing, contracts, payments, premises or another legal matter, share an initial summary. A suitable legal professional may contact you subject to availability, conflict checks and formal acceptance.",
+      "primaryCta": "Request Legal Assistance",
+      "secondaryCta": "Browse Legal Information",
+      "trustLine": "Privacy-conscious intake • Practical legal information • Access to professional support",
+      "imageAlt": "Illustrative view representing legal support for an industrial enterprise"
+    },
+    "quickInfo": {
+      "eyebrow": "Understand the issue. Find the right next step.",
+      "title": "A clear route to industry-focused legal support",
+      "description": "General legal information, structured initial intake and access to a network of legal professionals.",
+      "coordinationTitle": "Share a Legal Concern",
+      "coordinationText": "Send a brief initial summary of the legal issue affecting your enterprise.",
+      "supportTitle": "Professional Connection",
+      "supportText": "Connect with a suitable legal professional, subject to availability and conflict checks.",
+      "representationTitle": "Law & Compliance Information",
+      "representationText": "Read plain-language information backed by official sources and clear verification notes.",
+      "communityTitle": "Legal Awareness",
+      "communityText": "Access workshops, sessions and resources prepared for industrial legal needs."
+    },
+    "about": {
+      "eyebrow": "About the Service",
+      "title": "Industry-focused legal information and professional support",
+      "paragraphOne": "SIWA Legal Support helps industries understand common legal and regulatory issues, submit an initial assistance request and find an appropriate next step.",
+      "paragraphTwo": "Where suitable, a request may be routed to a legal professional after an initial review, availability check and conflict check. Advice or representation begins only after the professional separately accepts the matter and confirms the terms of engagement.",
+      "cta": "Learn How the Service Works",
+      "imageAlt": "Illustrative discussion between industry representatives and legal professionals"
+    },
+    "services": {
+      "eyebrow": "Legal Support Areas",
+      "title": "Legal matters affecting industrial enterprises",
+      "description": "Share an initial request or explore general information across common industry-related legal and compliance areas."
+    },
+    "serviceItems": {
+      "governmentRepresentation": {
+        "title": "Initial Legal Assistance Request",
+        "description": "Share the basic facts, relevant parties and any approaching deadline for an initial review."
+      },
+      "schemesSubsidies": {
+        "title": "Contracts & Payment Recovery",
+        "description": "Seek support concerning commercial terms, contract disputes, unpaid invoices and delayed payments."
+      },
+      "regulatoryUpdates": {
+        "title": "Licensing & Regulatory Compliance",
+        "description": "Understand notices, licences, permissions and regulatory steps relevant to industrial operations."
+      },
+      "industrialInfrastructure": {
+        "title": "Land, Lease & Premises",
+        "description": "Request guidance on industrial land, lease, possession, premises and authority-related disputes."
+      },
+      "pollutionCompliance": {
+        "title": "Environment & Pollution Compliance",
+        "description": "Find information and professional support for consents, environmental compliance and pollution-control notices."
+      },
+      "labourSupport": {
+        "title": "Labour & Employment",
+        "description": "Seek support on employment documentation, workplace compliance and labour-related disputes."
+      },
+      "petitionsRepresentation": {
+        "title": "Notices, Replies & Representations",
+        "description": "Request help reviewing notices and preparing replies or representations after formal engagement."
+      },
+      "networkingDevelopment": {
+        "title": "Dispute Resolution & Litigation Support",
+        "description": "Connect with a legal professional for negotiation, mediation, arbitration, tribunal or court matters."
+      }
+    },
+    "liaison": {
+      "eyebrow": "Authorities & Legal Process",
+      "title": "Support for legal matters before authorities",
+      "description": "Depending on the matter, professional availability, conflict checks and formal engagement, support may be provided with process, documents, replies or representation before a relevant authority.",
+      "note": "A reference to any department or authority does not imply partnership, endorsement or official affiliation. Legal representation is undertaken only after written acceptance of the matter.",
+      "imageAlt": "Illustrative discussion about an industry-related legal process"
+    },
+    "authorityItems": {
+      "dda": {
+        "name": "Land & planning authorities",
+        "description": "Legal-process support for applicable land, planning, lease and premises matters."
+      },
+      "mcd": {
+        "name": "Municipal & local bodies",
+        "description": "Information and case-specific support for applicable municipal notices and permissions."
+      },
+      "dsiidc": {
+        "name": "Industrial development agencies",
+        "description": "Support concerning applicable allotment, lease, infrastructure and agency processes."
+      },
+      "pollution": {
+        "name": "Pollution control authorities",
+        "description": "Support concerning consents, compliance, directions and pollution-control notices."
+      },
+      "labour": {
+        "name": "Labour authorities",
+        "description": "Support for applicable employment compliance, inspections, notices and labour proceedings."
+      },
+      "utilities": {
+        "name": "Electricity & utility bodies",
+        "description": "Support concerning applicable connections, billing, disconnection and utility disputes."
+      },
+      "other": {
+        "name": "Courts, tribunals & other authorities",
+        "description": "Matter-specific support may be considered by a qualified professional after formal engagement."
+      }
+    },
+    "issues": {
+      "eyebrow": "Common Legal Matters",
+      "title": "Legal issues you can contact us about",
+      "description": "Share an initial summary so the matter can be reviewed and, where appropriate, routed to a suitable legal professional."
+    },
+    "issueItems": {
+      "roads": "Government notices",
+      "drainage": "Replies & representations",
+      "water": "Contracts & commercial terms",
+      "waste": "Payment recovery",
+      "electricity": "Electricity & utility disputes",
+      "security": "Regulatory proceedings",
+      "encroachment": "Land, lease & encroachment",
+      "pollution": "Pollution-control compliance",
+      "labour": "Labour & employment",
+      "licensing": "Licences & permissions",
+      "taxes": "Tax & GST disputes",
+      "policies": "Policy & notification impact",
+      "infrastructure": "Industrial-area disputes",
+      "development": "Arbitration, tribunal & court matters"
+    },
+    "schemes": {
+      "eyebrow": "Legal Information Centre",
+      "title": "Legal Information, Government Schemes & Regulatory Updates",
+      "description": "Explore source-linked general information relevant to law, compliance, MSMEs and industrial operations."
+    },
+    "notices": {
+      "eyebrow": "Service Notices",
+      "title": "Legal Support Notices",
+      "description": "This section is intended for verified SIWA service notices, legal-awareness announcements and important information. Current cards are samples."
+    },
+    "stats": {
+      "eyebrow": "Service at a Glance",
+      "title": "Built Around Responsible Legal Support",
+      "members": "Legal Professionals",
+      "meetings": "Awareness Sessions",
+      "representations": "Assistance Requests",
+      "programs": "Resources & Programmes",
+      "note": "Displayed figures are editable placeholders and are not official statistics."
+    },
+    "members": {
+      "eyebrow": "Professional Network",
+      "title": "SIWA Legal Professionals Network",
+      "description": "This preview shows sample profiles. The production directory will publish a professional only after identity, credentials and consent are verified.",
+      "viewAll": "Explore Legal Professionals",
+      "join": "Request Assistance"
+    },
+    "events": {
+      "eyebrow": "Legal Awareness",
+      "title": "Legal Awareness Sessions & Professional Activities",
+      "description": "Approved programmes for general legal education, compliance awareness and professional exchange. Participation is not individual legal advice."
+    },
+    "membershipCta": {
+      "title": "Need help with an industry-related legal matter?",
+      "description": "Share a brief initial summary. Submitting a request does not create an advocate–client relationship, confirm representation or guarantee an outcome.",
+      "apply": "Submit Assistance Request",
+      "contact": "Contact the Support Desk"
+    },
+    "finalCta": {
+      "title": "Take the next informed step on your legal issue",
+      "description": "Read general legal information or submit an initial request for review. A legal professional must separately accept the matter before any advice or representation begins.",
+      "join": "Request Legal Assistance",
+      "contact": "Browse Legal Resources"
+    }
+  },
+  "about": {
+    "eyebrow": "About the Service",
+    "title": "About SIWA Legal Support",
+    "subtitle": "Legal information, initial assistance and professional connections for industry",
+    "whoWeAre": {
+      "eyebrow": "What the Service Does",
+      "title": "A responsible route to legal support",
+      "paragraphOne": "SIWA Legal Support helps industries understand common legal issues, submit an initial assistance request and, where appropriate, connect with a qualified legal professional.",
+      "paragraphTwo": "The platform provides general information and an initial point of contact. It does not itself guarantee legal advice, acceptance of a matter, representation or any particular result.",
+      "imageAlt": "Illustrative discussion between industry representatives and legal professionals"
+    },
+    "mission": {
+      "eyebrow": "Our Mission",
+      "title": "Making legal support easier to approach",
+      "text": "To help industries understand legal risk, seek timely assistance and reach suitable legal professionals through a clear and responsible process."
+    },
+    "vision": {
+      "eyebrow": "Our Vision",
+      "title": "An accessible and professional legal-support system",
+      "text": "To build an informed industrial community that can identify legal concerns early, use reliable information and seek qualified advice when needed."
+    },
+    "objectives": {
+      "eyebrow": "Our Objectives",
+      "title": "Focused on responsible legal support",
+      "description": "The service combines accessible information, structured intake and professional safeguards.",
+      "items": {
+        "represent": "Provide a clear route for initial legal-assistance requests",
+        "cooperation": "Connect suitable matters with legal professionals after verification and conflict checks",
+        "regulatory": "Share plain-language, official-source regulatory information",
+        "infrastructure": "Support notice, reply and representation needs after engagement",
+        "awareness": "Improve awareness of laws, compliance and government schemes",
+        "development": "Help industries identify legal risk at an early stage",
+        "training": "Organise legal-awareness sessions and compliance workshops",
+        "networking": "Encourage responsible exchange within the legal-professionals network",
+        "responsibleGrowth": "Protect privacy, minimise data and avoid outcome guarantees"
+      }
+    },
+    "leadership": {
+      "eyebrow": "Service Governance",
+      "title": "Legal Coordination Team",
+      "description": "Only verified service-governance and legal-coordination details will be published after SIWA approval.",
+      "placeholderBio": "[Profile to be provided]",
+      "items": {
+        "president": { "name": "[Lead Legal Coordinator Name]", "position": "Lead Legal Coordinator" },
+        "vicePresident": { "name": "[Senior Legal Coordinator Name]", "position": "Senior Legal Coordinator" },
+        "generalSecretary": { "name": "[Network Coordinator Name]", "position": "Legal Professionals Network Coordinator" },
+        "jointSecretary": { "name": "[Intake Coordinator Name]", "position": "Legal Assistance Intake Coordinator" },
+        "treasurer": { "name": "[Operations Coordinator Name]", "position": "Service Operations Coordinator" },
+        "executiveMember": { "name": "[Legal Professional Representative Name]", "position": "Legal Professional Representative" }
+      }
+    },
+    "journey": {
+      "eyebrow": "Service Development",
+      "title": "Milestones in legal support and awareness",
+      "description": "A verified service timeline can be added as approved records of legal-support and awareness initiatives become available.",
+      "placeholder": "Timeline placeholder — dates and service milestones are awaiting SIWA approval."
+    }
+  },
+  "members": {
+    "eyebrow": "Professional Network",
+    "title": "SIWA Legal Professionals Network",
+    "subtitle": "Explore advocates and legal professionals available for industry-related matters.",
+    "description": "Use search and filters to explore sample profiles in this preview. Production listings require verified identity, credentials and consent and do not guarantee availability, acceptance of a matter or a particular outcome.",
+    "searchPlaceholder": "Search professional or practice area",
+    "industryFilter": "Area of legal practice",
+    "areaFilter": "Location / jurisdiction",
+    "typeFilter": "Professional category",
+    "sortLabel": "Sort professionals",
+    "sortAlphabetical": "Name, A to Z",
+    "allIndustries": "All practice areas",
+    "allAreas": "All locations",
+    "allTypes": "All professional categories",
+    "industry": "Practice area",
+    "representative": "Legal professional",
+    "location": "Location / jurisdiction",
+    "memberSince": "Associated with network since",
+    "membershipType": "Professional category",
+    "website": "View professional website",
+    "featured": "Network profile",
+    "showing": "Showing {count} of {total} legal professionals",
+    "noResults": "No legal professionals match your search and filters.",
+    "resetFilters": "Reset filters",
+    "previousPage": "Previous page",
+    "nextPage": "Next page",
+    "placeholderNotice": "The directory currently contains clearly labelled demonstration records, not verified professional profiles. Do not publish a profile until identity, enrolment and permission are confirmed.",
+    "types": {
+      "general": "Advocate",
+      "associate": "Associated legal professional",
+      "institutional": "Legal organisation"
+    }
+  },
+  "gallery": {
+    "eyebrow": "Legal Awareness in Pictures",
+    "title": "Legal Awareness & Outreach Gallery",
+    "subtitle": "Workshops, information sessions and professional-network activities",
+    "description": "Browse approved images from verified activities. Current entries are illustrative placeholders and do not document actual SIWA events.",
+    "categories": {
+      "all": "All",
+      "governmentMeetings": "Authority Interactions",
+      "seminars": "Legal Awareness Sessions",
+      "training": "Compliance Workshops",
+      "industrialVisits": "Legal Outreach Visits",
+      "exhibitions": "Information Programmes",
+      "memberEvents": "Legal Professionals Network"
+    },
+    "openImage": "Open image: {title}",
+    "closeLightbox": "Close image viewer",
+    "previousImage": "Previous image",
+    "nextImage": "Next image",
+    "imageCount": "Image {current} of {total}",
+    "noResults": "No gallery images are available in this category.",
+    "placeholderDescription": "Demonstration gallery entry awaiting an approved photograph from a verified legal-awareness activity.",
+    "placeholderNotice": "Illustrative images are used until SIWA supplies approved photographs with the required publication consent.",
+    "items": {
+      "coordinationMeeting": {
+        "title": "Sample: Authority-process discussion",
+        "alt": "Illustrative authority-process discussion, not an actual SIWA activity photograph"
+      },
+      "industrySeminar": {
+        "title": "Sample: Legal awareness seminar",
+        "alt": "Illustrative legal awareness seminar, not an actual SIWA activity photograph"
+      },
+      "memberTraining": {
+        "title": "Sample: Compliance workshop",
+        "alt": "Illustrative compliance workshop, not an actual SIWA activity photograph"
+      },
+      "areaVisit": {
+        "title": "Sample: Industrial legal-outreach visit",
+        "alt": "Illustrative industrial legal-outreach visit, not an actual SIWA activity photograph"
+      },
+      "exhibition": {
+        "title": "Sample: Legal information programme",
+        "alt": "Illustrative legal information programme, not an actual SIWA activity photograph"
+      },
+      "memberMeeting": {
+        "title": "Sample: Legal professionals network meeting",
+        "alt": "Illustrative legal professionals network meeting, not an actual SIWA activity photograph"
+      },
+      "infrastructureVisit": {
+        "title": "Sample: Industrial-premises legal review",
+        "alt": "Illustrative industrial-premises discussion, not an actual SIWA activity photograph"
+      },
+      "awarenessWorkshop": {
+        "title": "Sample: Legal awareness workshop",
+        "alt": "Illustrative legal awareness workshop, not an actual SIWA activity photograph"
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Initial Legal-Assistance Intake",
+    "title": "Request Legal Assistance",
+    "subtitle": "Share a brief summary of an industry-related legal issue. This initial contact does not itself create an advocate–client relationship or confirm representation.",
+    "infoTitle": "Verified Support Channels",
+    "infoDescription": "Verified legal-support desk details will appear here once supplied and approved by SIWA.",
+    "formTitle": "Share Your Legal Concern",
+    "formDescription": "Provide only the basic information needed for an initial review. Do not send confidential, privileged or highly sensitive documents until a secure channel and formal engagement are confirmed.",
+    "address": "Office address",
+    "phone": "Phone",
+    "email": "Email",
+    "officeHours": "Office hours",
+    "mapTitle": "Find the SIWA Legal Support Desk",
+    "mapPlaceholder": "Map location awaiting confirmation",
+    "mapDescription": "A map will be enabled after SIWA provides and verifies the legal-support desk address or coordinates.",
+    "placeholderNotice": "Contact details and the map are placeholders until verified by SIWA. If a notice, hearing or statutory deadline is close, do not wait for a website response; contact a qualified advocate immediately."
+  },
+  "membership": {
+    "eyebrow": "Legal Assistance",
+    "title": "Initial Legal-Assistance Request",
+    "subtitle": "Tell us briefly about the legal issue affecting your enterprise",
+    "description": "Submitting this form is an initial request only. It does not create an advocate–client relationship, confirm acceptance of the matter or guarantee advice, representation or an outcome.",
+    "formTitle": "Submit an Assistance Request",
+    "formDescription": "Complete the required fields with a brief factual summary. Do not upload or include confidential, privileged or highly sensitive material at this stage.",
+    "consent": "I agree that SIWA or a relevant legal professional may contact me about this request. I understand that submission does not itself establish an advocate–client relationship or representation.",
+    "submit": "Submit Assistance Request",
+    "submitting": "Submitting request…",
+    "successTitle": "Initial request received",
+    "successMessage": "Thank you. Your initial request has been received. Availability, conflict checks, acceptance and next steps will be confirmed separately.",
+    "errorTitle": "Unable to submit the request",
+    "errorMessage": "Please try again or contact SIWA using the verified details on this page.",
+    "privacyNote": "Information submitted here should be used only to review and respond to your assistance request, in accordance with the published privacy notice."
+  },
+  "schemes": {
+    "eyebrow": "Official-Source Information",
+    "title": "Government Schemes for Industry",
+    "subtitle": "Source-linked scheme information for industries and MSMEs",
+    "description": "Browse plain-language summaries of relevant schemes, subsidies and programmes, and verify every requirement with the official source.",
+    "searchPlaceholder": "Search government schemes and programmes",
+    "categories": {
+      "latest": "Latest",
+      "msme": "MSME Schemes",
+      "subsidies": "Subsidies",
+      "policy": "Policy & Notification Updates",
+      "compliance": "Legal & Compliance Information",
+      "training": "Legal Awareness Programs"
+    },
+    "department": "Department / authority",
+    "published": "Published",
+    "deadline": "Deadline",
+    "noDeadline": "No deadline provided",
+    "officialSource": "Visit official source",
+    "document": "View document",
+    "empty": "No scheme information matches this selection.",
+    "disclaimerTitle": "General information — verify before acting",
+    "disclaimer": "This content is general information, not legal advice for a particular matter. Laws, rules, eligibility and deadlines may change. Verify the official source and consult a qualified legal professional before acting. SIWA does not guarantee eligibility, approval, subsidy or benefit under any scheme.",
+    "placeholderNotice": "Current cards are clearly labelled samples. They do not describe confirmed schemes, legal requirements, benefits or deadlines.",
+    "items": {
+      "msmeSupport": {
+        "title": "Sample: MSME scheme information",
+        "summary": "A placeholder for a source-linked summary covering eligibility, important dates and the official application route.",
+        "department": "[Concerned Government Department]"
+      },
+      "subsidyInformation": {
+        "title": "Sample: Industrial subsidy information",
+        "summary": "A demonstration card for an editorially reviewed summary linked to the issuing department's official source.",
+        "department": "[Concerned Government Department]"
+      },
+      "policyUpdate": {
+        "title": "Sample: Policy and notification update",
+        "summary": "A placeholder for a plain-language overview of applicability, effective dates and the official notification.",
+        "department": "[Issuing Authority]"
+      },
+      "complianceAdvisory": {
+        "title": "Sample: Legal and compliance information",
+        "summary": "A demonstration entry for general compliance information with jurisdiction, review date and official sources.",
+        "department": "[Concerned Regulatory Authority]"
+      },
+      "trainingProgram": {
+        "title": "Sample: Legal awareness programme",
+        "summary": "A placeholder for an educational programme after the topic, speaker, schedule and participation terms are confirmed.",
+        "department": "[Programme Organiser]"
+      }
+    }
+  },
+  "updates": {
+    "eyebrow": "Law, Compliance & Schemes",
+    "title": "Legal Information, Government Schemes & Regulatory Updates",
+    "subtitle": "Law, compliance, official notifications and government schemes in one place",
+    "description": "Explore concise, source-linked general information relevant to legal and regulatory developments affecting industry.",
+    "categories": {
+      "policy": "Legal & Policy Updates",
+      "announcements": "Government Notifications",
+      "msme": "MSME Legal Information",
+      "development": "Industrial-Law Developments",
+      "regulatory": "Regulatory & Compliance Information",
+      "training": "Legal Awareness Opportunities"
+    },
+    "published": "Published",
+    "source": "Source",
+    "readArticle": "Read legal update",
+    "empty": "No updates are available in this category.",
+    "placeholderNotice": "Current update cards are demonstrations, not current legal updates or news reports. Verify every published item against its official source.",
+    "items": {
+      "policy": {
+        "title": "Sample: Legal and policy update",
+        "excerpt": "A placeholder for an editorially reviewed summary stating applicability, jurisdiction, effective dates and official sources."
+      },
+      "announcement": {
+        "title": "Sample: Government notification",
+        "excerpt": "A demonstration entry showing where a verified notification and its plain-language summary may appear."
+      },
+      "msme": {
+        "title": "Sample: MSME legal information update",
+        "excerpt": "A placeholder for general legal or scheme information linked to the relevant official source."
+      },
+      "regulatory": {
+        "title": "Sample: Regulatory and compliance update",
+        "excerpt": "A demonstration summary that must be checked against the latest official notification before anyone acts on it."
+      }
+    }
+  },
+  "notices": {
+    "eyebrow": "Legal Support Announcements",
+    "title": "Service Notices",
+    "description": "Verified SIWA legal-support notices and programme announcements will be listed here after review.",
+    "date": "Date",
+    "view": "View notice",
+    "download": "Download notice",
+    "unavailable": "Document awaiting publication",
+    "placeholderNotice": "These sample notices do not announce real sessions, services or deadlines.",
+    "categories": {
+      "memberMeeting": "Legal Professionals Network",
+      "infrastructure": "Legal Assistance Service",
+      "schemeAwareness": "Legal & Scheme Awareness",
+      "general": "Service Information"
+    },
+    "items": {
+      "memberMeeting": {
+        "title": "Sample: Legal professionals network meeting",
+        "description": "Demonstration notice for a proposed professional-network discussion."
+      },
+      "infrastructureDiscussion": {
+        "title": "Sample: Legal-assistance intake session",
+        "description": "Demonstration notice for an initial legal-issue intake or information session."
+      },
+      "schemeSeminar": {
+        "title": "Sample: Legal and government-scheme awareness seminar",
+        "description": "Demonstration notice for a general information session; topic, speaker and schedule are not confirmed."
+      },
+      "memberUpdate": {
+        "title": "Sample: Professional profile verification request",
+        "description": "Demonstration administrative notice for verifying legal-professional network profiles."
+      }
+    }
+  },
+  "events": {
+    "eyebrow": "Understand the Law",
+    "title": "Legal Awareness Sessions & Activities",
+    "subtitle": "Workshops, information sessions and professional activities for industry",
+    "description": "Discover approved opportunities for general legal education, compliance awareness and professional exchange. Participation is not individual legal advice.",
+    "upcoming": "Upcoming legal-awareness activities",
+    "date": "Date",
+    "location": "Location",
+    "viewEvent": "View event",
+    "empty": "No events are available in this category.",
+    "placeholderLocation": "[Venue to be confirmed]",
+    "placeholderNotice": "All activities shown are illustrative samples. No session, speaker, venue or registration is announced until SIWA confirms it.",
+    "categories": {
+      "governmentMeeting": "Authority Interaction",
+      "industrySeminar": "Legal Awareness Seminar",
+      "trainingSession": "Compliance Workshop",
+      "exhibition": "Legal Information Programme",
+      "memberNetworking": "Legal Professionals Network",
+      "awarenessProgram": "Legal Awareness Programme"
+    },
+    "items": {
+      "authorityDialogue": {
+        "title": "Sample: Industry–authority legal-process dialogue",
+        "description": "An illustrative information session about notices, procedure and communication with a relevant authority.",
+        "imageAlt": "Illustrative discussion about an authority process; sample activity imagery"
+      },
+      "msmeSeminar": {
+        "title": "Sample: MSME legal awareness seminar",
+        "description": "A demonstration seminar card awaiting a verified legal topic, approved speaker and confirmed schedule.",
+        "imageAlt": "Illustrative legal awareness seminar; sample activity imagery"
+      },
+      "complianceTraining": {
+        "title": "Sample: Compliance training session",
+        "description": "An illustrative educational entry for a future, SIWA-approved compliance workshop.",
+        "imageAlt": "Illustrative compliance workshop; sample activity imagery"
+      },
+      "networkingMeet": {
+        "title": "Sample: Legal professionals network meeting",
+        "description": "A demonstration professional-network card; no gathering is currently announced.",
+        "imageAlt": "Illustrative legal professionals meeting; sample activity imagery"
+      },
+      "awarenessProgram": {
+        "title": "Sample: Industry legal-awareness programme",
+        "description": "A placeholder for a general legal-awareness programme once its topic and details are approved.",
+        "imageAlt": "Illustrative industry legal-awareness programme; sample activity imagery"
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Legal Resource Library",
+    "title": "Legal Information & Resources",
+    "subtitle": "Laws, notifications, checklists and useful industry references",
+    "description": "Search approved, source-linked legal-information documents and reference material by category.",
+    "searchPlaceholder": "Search legal resources",
+    "date": "Date",
+    "fileType": "File type",
+    "fileSize": "File size",
+    "download": "Download",
+    "unavailable": "File awaiting publication",
+    "empty": "No documents match this selection.",
+    "placeholderNotice": "Document rows are demonstrations. Downloads remain disabled until authentic files and official sources are verified and approved.",
+    "categories": {
+      "notices": "SIWA Legal Notices",
+      "circulars": "Legal & Regulatory Circulars",
+      "governmentOrders": "Government Notifications & Orders",
+      "membershipForms": "Legal Assistance Forms",
+      "schemeDocuments": "Government Scheme Documents",
+      "meetingDocuments": "Legal Awareness Materials",
+      "industrialGuidelines": "Compliance Checklists & Legal Guides"
+    },
+    "items": {
+      "memberMeetingNotice": { "title": "Sample: Legal professionals network notice" },
+      "associationCircular": { "title": "Sample: SIWA legal-support circular" },
+      "governmentOrder": { "title": "Sample: Government notification reference" },
+      "membershipForm": { "title": "Sample: Initial legal-assistance request form" },
+      "schemeDocument": { "title": "Sample: Government scheme source document" },
+      "industrialGuidelines": { "title": "Sample: Industry compliance checklist" }
+    }
+  },
+  "forms": {
+    "name": "Contact person",
+    "namePlaceholder": "Enter the contact person's full name",
+    "applicantName": "Contact person",
+    "company": "Enterprise / organisation",
+    "companyName": "Enterprise / organisation name",
+    "companyPlaceholder": "Enter your company name",
+    "designation": "Designation",
+    "designationPlaceholder": "Enter your designation",
+    "mobile": "Mobile number",
+    "mobilePlaceholder": "Enter a 10-digit mobile number",
+    "email": "Email address",
+    "emailPlaceholder": "Enter your email address",
+    "businessType": "Industry / business activity",
+    "businessTypePlaceholder": "Enter the main industry or business activity",
+    "address": "Enterprise address",
+    "addressPlaceholder": "Enter the enterprise address",
+    "industrialArea": "City / industrial area",
+    "industrialAreaPlaceholder": "Enter the city or industrial area",
+    "udyamNumber": "MSME / Udyam number",
+    "udyamPlaceholder": "Enter Udyam number, if applicable",
+    "gstNumber": "GST number",
+    "gstPlaceholder": "Enter GST number, if applicable",
+    "employees": "Number of employees, if relevant",
+    "employeesPlaceholder": "Enter an approximate employee count, if relevant",
+    "subject": "Legal issue category",
+    "subjectPlaceholder": "Select the closest legal issue category",
+    "message": "Brief legal-issue summary",
+    "messagePlaceholder": "Share the basic facts, relevant parties and any notice, hearing or statutory deadline. Do not include confidential or privileged material.",
+    "sendEnquiry": "Submit Assistance Request",
+    "sending": "Sending…",
+    "successTitle": "Initial request received",
+    "successMessage": "Thank you. Your initial request has been recorded for review. Acceptance, conflicts, availability and next steps will be confirmed separately.",
+    "errorTitle": "Unable to send the request",
+    "errorMessage": "Please review the form and try again.",
+    "subjects": {
+      "membership": "Initial Legal-Assistance Request",
+      "industrialIssue": "Contract / Commercial Dispute",
+      "governmentScheme": "Government Notice / Scheme",
+      "event": "Legal Awareness Programme",
+      "general": "Compliance / Regulatory Matter",
+      "other": "Other Legal Matter"
+    },
+    "issue": {
+      "title": "Share an Industry-Related Legal Issue",
+      "description": "This is an initial intake only. It does not establish an advocate–client relationship, confirm representation or guarantee an outcome. Do not send confidential documents until a secure channel is confirmed.",
+      "memberCompany": "Enterprise / organisation",
+      "category": "Legal issue category",
+      "issueTitle": "Brief issue title",
+      "issueDescription": "Factual summary",
+      "location": "City / jurisdiction",
+      "attachment": "Document or image — only after secure-upload confirmation",
+      "submit": "Submit Initial Request",
+      "categories": {
+        "road": "Government Notice / Reply",
+        "drainage": "Contract / Commercial Dispute",
+        "electricity": "Electricity / Utility Dispute",
+        "water": "Payment / Recovery",
+        "waste": "Environmental Compliance",
+        "security": "Regulatory Proceeding",
+        "encroachment": "Land / Lease / Premises",
+        "pollution": "Pollution-Control Matter",
+        "labour": "Labour / Employment",
+        "licence": "Licence / Permission",
+        "other": "Other Legal Matter"
+      }
+    }
+  },
+  "validation": {
+    "required": "This field is required.",
+    "nameRequired": "Please enter your name.",
+    "nameMin": "Name must contain at least 2 characters.",
+    "companyRequired": "Please enter your company name.",
+    "emailRequired": "Please enter your email address.",
+    "emailInvalid": "Enter a valid email address.",
+    "mobileRequired": "Please enter your mobile number.",
+    "mobileInvalid": "Enter a valid 10-digit Indian mobile number.",
+    "subjectRequired": "Please select a subject.",
+    "messageRequired": "Please enter a message.",
+    "messageMin": "Message must contain at least 10 characters.",
+    "consentRequired": "Please consent to being contacted and acknowledge that submission alone does not establish legal representation.",
+    "employeesInvalid": "Enter a valid non-negative employee count.",
+    "gstInvalid": "Enter a valid 15-character GST number.",
+    "udyamInvalid": "Enter a valid Udyam registration number.",
+    "fileTooLarge": "The selected file is too large.",
+    "fileTypeInvalid": "Select a supported document or image file."
+  },
+  "footer": {
+    "description": "A legal-support platform helping industries access general legal information, submit an initial assistance request and connect with legal professionals.",
+    "quickLinks": "Quick Links",
+    "resources": "Legal Resources",
+    "contact": "Legal Assistance",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "officeHours": "Office hours",
+    "notices": "Service Notices",
+    "events": "Legal Awareness",
+    "membership": "Request Assistance",
+    "documents": "Legal Resources",
+    "copyright": "© {year} SIWA — Small Industrial Welfare Association. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "disclaimer": "Disclaimer",
+    "placeholderContact": "Legal-support contact details awaiting SIWA verification"
+  },
+  "accessibility": {
+    "skipToContent": "Skip to main content",
+    "mainNavigation": "Main navigation",
+    "footerNavigation": "Footer navigation",
+    "languageSelector": "Language selector",
+    "opensNewWindow": "Opens in a new window",
+    "currentPage": "Current page"
+  }
+}
