@@ -65,3 +65,14 @@ Unverified government information, downloads, source links, profiles, social lin
 ## Deployment
 
 Run `npm run build` to generate the complete static website in `out/`. Upload the contents of `out/` to any static hosting service, or preview the exported files locally with `npm start`. Set `NEXT_PUBLIC_SITE_URL` in the build environment before building.
+
+### Render
+
+Deploy this repository as a **Static Site**, not a Web Service:
+
+- Build command: `npm ci && npm run build`
+- Publish directory: `out`
+- Root directory: leave blank
+- Branch: `main`
+
+The included `render.yaml` provides the same settings when the repository is deployed as a Render Blueprint.
